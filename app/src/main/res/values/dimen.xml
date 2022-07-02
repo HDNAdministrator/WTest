@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="n_size">1dp</dimen>
+    <dimen name="t_size">5dp</dimen>
+    <dimen name="st_size">10dp</dimen>
+    <dimen name="s_size">16dp</dimen>
+    <dimen name="m_size">24dp</dimen>
+    <dimen name="l_size">32dp</dimen>
+    <dimen name="xl_size">48dp</dimen>
+    <dimen name="xxl_size">64dp</dimen>
+    <dimen name="xxxl_size">128dp</dimen>
+    <dimen name="uxl_size">256dp</dimen>
+    <dimen name="uxxl_size">384dp</dimen>
+    <dimen name="load_size">24dp</dimen>
+</resources>

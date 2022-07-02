@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">WTest</string>
+    <string name="appName">WTest</string>
+    <string name="failToLoadData">Fail to load crucial data</string>
+    <string name="initializing">Initializing</string>
+    <string name="noDataFound">No data was found</string>
+    <string name="noInternet">There is no internet</string>
+    <string name="searchHere">Search here</string>
 </resources>

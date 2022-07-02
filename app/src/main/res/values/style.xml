@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.LoadingBar" parent="Widget.Material3.CircularProgressIndicator">
+        <item name="android:layout_width">@dimen/load_size</item>
+        <item name="android:layout_height">@dimen/load_size</item>
+        <item name="android:layout_gravity">end</item>
+        <item name="android:layout_margin">@dimen/s_size</item>
+        <item name="android:indeterminate">true</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <style name="Theme.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="android:layout_margin">@dimen/t_size</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>
